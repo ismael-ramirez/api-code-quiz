@@ -13,5 +13,6 @@ be saved. Application user interface is clean and easy to navigate.
 ![GitHub Logo](screenshot2.png)
 
 
- https://ismael-ramirez.github.io/api-code-quiz/- link to live site!
+
+http://github.com - automatic!
 [GitHub](http://github.com)
