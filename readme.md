@@ -14,5 +14,5 @@ be saved. Application user interface is clean and easy to navigate.
 
 
 
- https://ismael-ramirez.github.io/api-code-quiz/ - automatic!
+ https://ismael-ramirez.github.io/api-code-quiz/ - link to live site!
 [GitHub]( https://ismael-ramirez.github.io/api-code-quiz/)
